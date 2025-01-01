@@ -1,0 +1,42 @@
+{
+  "sections": [
+    {
+      "title": "Example  headings",
+      "content": [],
+      "subsections": [
+        {
+          "title": "Sample  Section",
+          "content": []
+        },
+        {
+          "title": "This\u2019ll  be  a   Section  About  the  Greek  Letter  \u0398!",
+          "content": [
+            "A  heading  containing  characters  not  allowed  in  fragments,  UTF-8  characters,  two  consecutive  spaces  between  the  first  and  second  words,  and  formatting."
+          ]
+        },
+        {
+          "title": "This  heading  is  not  unique  in  the  file",
+          "content": [
+            "TEXT  1"
+          ]
+        },
+        {
+          "title": "This  heading  is  not  unique  in  the  file",
+          "content": [
+            "TEXT  2"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Links  to  the  example  headings  above",
+      "content": [
+        "Link  to  the  sample  section:  .",
+        "Link  to  the  helpful  section:  .",
+        "Link  to  the  first  non-unique  section:  .",
+        "Link  to  the  second  non-unique  section:  ."
+      ],
+      "subsections": []
+    }
+  ]
+}
